@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jorge Urrea.
+- 👋 Hi, I’m Jorge Urrea. A passionate for applied mathematics, who is exploring the complexity of the world and quantifying its uncertainty through physics-based and data-driven dynamical modeling. 
 - 👀 I’m interested in the computational methods applied to solve Multi-physics problems either modelled by PDEs or ODEs.
 - 🌱 I’m currently learning about Physics-Informed Neural Networks (PINNs), Gaussian Processes (GPs), and Finite Element Method (FEM) technologies. 
 - 💞️ I’m looking to collaborate on the development of robust/reliable libraries to computational approximate the solution of couple chemo-thermo-mechanical problems either using traditional methods or machine learning based ones.
